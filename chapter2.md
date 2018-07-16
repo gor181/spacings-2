@@ -11,13 +11,27 @@ xp: 50
 key: e9c44ae95f   
 ```
 
+a
+
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+
+```{python}
+
+```
 
 
 
+`@sct`
 
+```{python}
 
-
-
+```
 
 
 
