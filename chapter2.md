@@ -37,3 +37,40 @@ a
 
 
 
+
+
+---
+## Insert exercise title here
+
+```yaml
+type: MultipleChoiceExercise 
+xp: 50 
+key: a1a48b859e   
+```
+
+a
+
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+
+```{python}
+
+```
+
+
+
+`@sct`
+
+```{python}
+
+```
+
+
+
+
+
